@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Soy Kevin Haros, desarrollador de software apasionado en solucionar problemas......
+---
+### Los lenguajes que he aprendido desde que conocí el maravilloso mundo de la programación desde hace 4 años son:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width:70px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:70px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:70px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:70px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width:70px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width:70px;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="width:70px;"  />
+---
 
 <!--
 **KeviinZyo/KeviinZyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @kviin.08 on instagram
 - 😄 Pronouns: ... Zyo
 - ⚡ Fun fact: ... 4 years ago, I wanted to be an architect
-------------> Print("Hola Mundo") <--------------
+------------> Print("Hola Mundo")<--------------
+	
